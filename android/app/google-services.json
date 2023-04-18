@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "815445817184",
+    "project_id": "rio-clinic-5764c",
+    "storage_bucket": "rio-clinic-5764c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815445817184:android:84db9d0e94e520f76f5005",
+        "android_client_info": {
+          "package_name": "com.rioclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815445817184-33tv9oqqd34m9patlpubl0r9jdlh4uq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rioclinic",
+            "certificate_hash": "8b759ea5ad80bd264a50e82fd6a53ea63e0c83ea"
+          }
+        },
+        {
+          "client_id": "815445817184-tcodmt9v71h8502ngacp0lbut1954jtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rioclinic",
+            "certificate_hash": "3f918231d879a4f93651075ff22ab6b06b6a41f2"
+          }
+        },
+        {
+          "client_id": "815445817184-96fvlh682jcjso0nvhr6d8h4bjofd5op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJrwWM-rvrf2rB48ovgIjiTBaTdBCTAPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815445817184-068uo1udaalfchg19vbrd3vji8pla7rv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815445817184-rocvo266voq8cgpfr8dt2ntih3m4mu09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rioclinic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
